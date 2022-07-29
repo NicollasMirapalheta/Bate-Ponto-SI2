@@ -20,7 +20,7 @@ O projeto consiste em um sistema de bate ponto online. Onde o usuário terá um 
 
 # Instruções para rodar o sistema
 1. Baixe o arquivo zip ou rode a linha de comando ```git clone https://github.com/Gregory-JP/Bate-Ponto-SI2.git```
-2. **Você precisa** do VS Code e a extensão Live instalados, abra a pasta Bate-Ponto-SI2 no VS Code. Você terá algo como:
+2. **Você precisa** do VS Code e a extensão Live instalados, abra a pasta Bate-Ponto-SI2 no VS Code. Assim, você terá algo como:
 
   <p align="center">
     <img src='https://user-images.githubusercontent.com/63425849/176982855-28fb7bc8-ee16-459f-b5be-598f3c3de92a.png'>
